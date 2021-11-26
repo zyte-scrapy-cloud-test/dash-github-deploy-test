@@ -1,0 +1,14 @@
+*.egg-info/
+*.log
+*.py[cod]
+.DS_Store
+.coverage
+.direnv/
+.envrc
+.idea/
+.tox/
+Thumbs.db
+build/
+dist/
+htmlcov/
+venv-*/

@@ -1,0 +1,6 @@
+project: 353761
+
+requirements:
+  file: requirements.txt
+
+stack: scrapy:2.5-20211007  # py39
